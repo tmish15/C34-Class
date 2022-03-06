@@ -1,1 +1,1 @@
-# C34-Class
+# C34_template_code
